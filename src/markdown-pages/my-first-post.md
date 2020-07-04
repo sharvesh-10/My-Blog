@@ -1,6 +1,6 @@
 ---
 title: 'My First Blog Post'
-date: '2020-06-5'
+date: '2020-06-05'
 description: "I have complete my React Course"
 ---
 
