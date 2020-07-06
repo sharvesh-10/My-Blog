@@ -13,4 +13,4 @@ description: 'My first Reactjs Website'
 - [x] Provides google sign-in .
 - [x] This is a lightweight website and responsive.
 - [x] Redux concepts are implemented for fast loading and responses.
-
+- [x] Include easy payments via Stripe payments API
