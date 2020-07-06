@@ -3,12 +3,11 @@ title: 'AZ-SHOPPING'
 date: '2020-06-11'
 description: 'My first Reactjs Website'
 ---
-#Az - Shopping
 
 > **[🌐 VISIT WEBSITE ](http://az-shopping.herokuapp.com/ "VISIT WEBSITE 🌐")**
 
 ---
-> A ReactJs Clothing and other things shopping app. 
+> A ReactJs Clothing and other things shopping app, developed using firebase,express and stripe payments.
 
 ## FEATURES ✨
 - [x] Provides google sign-in .
